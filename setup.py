@@ -7,7 +7,7 @@ setup(
     name="pipelinescript",
     version="0.1.0",
     author="Idriss Bado",
-    author_email="idriss.bado@example.com",
+    author_email="idrissbadoolivier@gmail.com",
     description="Human-readable ML pipeline language with DSL, debugging, and visualization",
     long_description=long_description,
     long_description_content_type="text/markdown",

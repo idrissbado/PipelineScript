@@ -759,7 +759,7 @@ See the `examples/` directory for:
 
 - **Issues**: [GitHub Issues](https://github.com/idrissbado/PipelineScript/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/idrissbado/PipelineScript/discussions)
-- **Email**: idriss.bado@example.com
+- **Email**: idrissbadoolivier@gmail.com
 
 ---
 

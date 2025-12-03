@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "pipelinescript"
 version = "0.1.0"
 authors = [
-    {name = "Idriss Bado", email = "idriss.bado@example.com"},
+    {name = "Idriss Bado", email = "idrissbadoolivier@gmail.com"},
 ]
 description = "Human-readable ML pipeline language with DSL, debugging, and visualization"
 readme = "README.md"
