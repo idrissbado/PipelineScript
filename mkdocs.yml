@@ -1,0 +1,29 @@
+site_name: PipelineScript
+site_description: Human-readable ML pipeline language (DSL) for machine learning
+site_url: https://idrissbado.github.io/PipelineScript/
+repo_url: https://github.com/idrissbado/PipelineScript
+repo_name: idrissbado/PipelineScript
+nav:
+  - Home: index.md
+  - Quick Start: quickstart.md
+  - CLI: cli.md
+  - Python API: python_api.md
+  - Language Reference: language.md
+  - Examples: examples.md
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - content.code.copy
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/idrissbado/PipelineScript
+    - icon: fontawesome/brands/python
+      link: https://pypi.org/project/pipelinescript/
